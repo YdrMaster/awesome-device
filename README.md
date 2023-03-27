@@ -15,4 +15,4 @@
 - aclint: [![Latest version](https://img.shields.io/crates/v/aclint.svg)](https://crates.io/crates/aclint)
 - plic: [![Latest version](https://img.shields.io/crates/v/plic.svg)](https://crates.io/crates/plic)
 - sifive-test-device: [![Latest version](https://img.shields.io/crates/v/sifive-test-device.svg)](https://crates.io/crates/sifive-test-device)
-- uart16550: [repo](https://github.com/YdrMaster/uart16550)
+- uart16550: [![Latest version](https://img.shields.io/crates/v/uart16550.svg)](https://crates.io/crates/uart16550)
